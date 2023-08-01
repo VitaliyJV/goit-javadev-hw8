@@ -1,0 +1,11 @@
+apply plugin: 'java'
+apply plugin: 'war'
+apply plugin: 'application'
+
+repositories {
+    jcenter()
+}
+
+dependencies {
+    compileOnly group: 'jakarta.servlet', name: 'jakarta.servlet-api', version: '5.0.0'
+}
