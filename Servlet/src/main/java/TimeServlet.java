@@ -1,4 +1,4 @@
-import jakarta.servlet.annotation.WebServlet;
+/*import jakarta.servlet.annotation.WebServlet;
 import jakarta.servlet.http.HttpServlet;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
@@ -33,3 +33,5 @@ http://localhost:8080
 http://localhost:8080/time
 http://localhost:8080/Servlet/time
  */
+
+

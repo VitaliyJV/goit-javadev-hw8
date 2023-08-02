@@ -4,8 +4,10 @@ apply plugin: 'application'
 
 repositories {
     jcenter()
+    mavenCentral()
 }
 
 dependencies {
-    compileOnly group: 'jakarta.servlet', name: 'jakarta.servlet-api', version: '5.0.0'
+    compileOnly group: 'jakarta.servlet', name: 'jakarta.servlet-api', version: '6.0.0'
+    compileOnly 'jakarta.servlet:jakarta.servlet-api:6.0.0'
 }
