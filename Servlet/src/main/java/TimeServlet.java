@@ -32,6 +32,9 @@ public class TimeServlet extends HttpServlet {
 http://localhost:8080
 http://localhost:8080/time
 http://localhost:8080/Servlet/time
+http://localhost:8080/Servlet/time?timezone=UTC+2
  */
+
+
 
 
